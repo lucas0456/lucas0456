@@ -2,7 +2,7 @@
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning html, javascript e css
 - 💞️ I’m looking to collaborate on house
-- 📫 How to reach me ..., I prefer not speaking
+- 📫 How to reach me ..., I prefer not to say personal information
 - 🏫 I'm student
 
 <!---
