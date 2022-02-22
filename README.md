@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucas0456
+- 👋 Hi, I am @lucas0456
 - 👀 I'm Interested in soccer
 - 🌱 I'm currently learning html, javascript e css
 - 💞️ I'm looking to collaborate on house
