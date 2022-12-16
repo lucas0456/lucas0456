@@ -1,3 +1,4 @@
+<p align="left" <img src="https://komarev.com/ghpvc/?username=lucas0456&color=yellow"></p>
 - 👋 Hi, I'm @lucas0456
 - 👀 I'm Interested in soccer
 - 🌱 I'm currently learning html, javascript, css e php
@@ -14,3 +15,4 @@
 lucas0456/lucas0456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
