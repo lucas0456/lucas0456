@@ -40,7 +40,29 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas0456&show_icons=true&theme=radical)
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=lucas0456&color=yellow" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/lucas0456?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas0456&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas0456&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=lucas0456&theme=onedark" alt="Trophies" />
+</p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+
+
 <!---
 lucas0456/lucas0456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
