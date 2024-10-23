@@ -1,29 +1,46 @@
 <p align="left" <img src="https://komarev.com/ghpvc/?username=lucas0456&color=yellow"></p>
-# Hi, I'm Lucas Gabriel Pereira da Cunha (@lucas0456)
+# Hi, I'm Lucas Gabriel Pereira da Cunha (@lucas0456) 🎮💻
 
-👋 I'm a gaming enthusiast and aspiring developer, currently studying Systems Analysis and Development at Estácio. I have a technical high school background in Web Development, and I'm passionate about technology.
+---
 
-👀 I'm interested in soccer and enjoy being active, both on the field and in my tech pursuits.
+## 🎯 About Me
+- 👋 Gaming enthusiast and aspiring developer, currently studying Systems Analysis and Development at **Estácio**.
+- 🏫 Technical high school graduate in Web Development, with a passion for technology.
+- 👀 Soccer lover who enjoys being active, both in sports and in tech.
 
-🌱 Currently, I'm learning HTML, JavaScript, CSS, PHP, and continuously improving my programming skills.
+---
 
-📚 At the moment, I'm also learning English, Spanish, Italian, French, German, and Esperanto.
+## 🚀 Learning and Skills
+- 🌱 **Currently learning:** HTML, JavaScript, CSS, PHP.
+- 📚 **Languages I'm studying:** English, Spanish, Italian, French, German, and Esperanto.
+- 🎓 **Completed:** "AWS Cloud Practitioner Essentials" learning path.
+- 💪 Always striving to achieve goals and learn something new.
 
-🏆 I'm a competitive Overwatch 2 player and part of the **Lua Nova** team. I'm always striving to improve my gameplay and adjust my strategies.
+---
 
-💞️ Looking to collaborate on projects related to web development, game development, or any tech-related challenges.
+## 🎮 Gaming
+- 🏆 **Competitive Overwatch 2 player** on the **Lua Nova** team.
+- ⚙️ Continuously adjusting strategies and settings to improve performance.
 
-📫 How to reach me? For now, I prefer not to share personal contact information.
+---
 
-🏫 I'm committed to reaching my academic and professional goals, always seeking to be better each day, both as a person and a student.
+## 💼 Looking to Collaborate
+- 💞️ Open to collaborating on web development, game development, or tech-related projects.
 
-🌟 I intend to reach my goals with dedication and perseverance.
+---
 
-😎 I would describe myself as cheerful, friendly, curious, and sometimes a bit anxious. I embrace these qualities to push myself forward.
+## 🎨 Personal Traits
+- 😎 Cheerful, friendly, curious, and a bit anxious—qualities that drive me forward.
+- 🥇 Very competitive and always looking to improve in every area of life.
 
-💪 I always strive to learn or achieve a goal, and I'm never afraid to take on a challenge.
+---
 
-🥇 Being competitive drives me to improve in all areas of life.
+## 📫 Contact
+- 📬 For now, I prefer not to share personal contact information.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas0456&show_icons=true&theme=radical)
 <!---
 lucas0456/lucas0456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
