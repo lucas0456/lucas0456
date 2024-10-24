@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Learning and Skills
-- 🌱 **Currently learning:** HTML, JavaScript, CSS, PHP.
+- 🌱 **Skills and Learning Path:** I have a solid foundation in HTML, JavaScript, CSS, and PHP, and I am continuously expanding my skills as I progress through my Systems Analysis and Development degree. I'm looking forward to diving deeper into other programming languages, software development, and cloud technologies.
 - 📚 **Languages I'm studying:** English, Spanish, Italian, French, German, and Esperanto.
 - 🎓 **Completed:** "AWS Cloud Practitioner Essentials" learning path.
 - 💪 Always striving to achieve goals and learn something new.
