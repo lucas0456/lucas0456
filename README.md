@@ -19,7 +19,7 @@
 ---
 
 ## 🎮 Gaming
-- 🏆 **Competitive Overwatch 2 player** on the **Lua Nova** team.
+- 🏆 **Competitive Overwatch 2 player** on the **Asa Negra** team.
 - ⚙️ Continuously adjusting strategies and settings to improve performance.
 
 ---
